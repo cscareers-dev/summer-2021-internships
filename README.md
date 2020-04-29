@@ -10,4 +10,6 @@ We provide our community members with **company-specific interview questions**, 
 
 ## Internship Listings
 
-TBA
+| Name  |  Location |  Notes |
+|---|---|---|
+|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225)|New York, Chicago|C++, Graduating in 2022|
