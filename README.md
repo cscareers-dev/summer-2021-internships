@@ -12,10 +12,11 @@ We provide our community members with **company-specific interview questions**, 
 
 | Name  |  Location |  Notes |
 |---|---|---|
+|[American Express](https://jobs.americanexpress.com/jobs/20001627)|Phoenix, Ft. Lauderdale, New York|Java, JavaScript, .NET, Graduating between December 2021 and June 2023|
 |[Five Rings (SWE)](https://fiverings.com/apply/?p=job%2Fo1OAcfwl)|New York|C++, Python|
 |[Five Rings (Quant)](https://fiverings.com/apply/?p=job%2FoeOAcfwy)|New York|Trading Intern|
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225)|New York, Chicago|C++, Graduating in 2022|
+|[IMC](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)|Chicago|C++, Java|
 |[Qualcomm (Software Engineering)](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)|San Diego, Boulder, Austin|C/C++|
 |[Qualcomm (Hardware Engineering)](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982302)|San Diego|C/C++|
-|[IMC](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)|Chicago|C++, Java|
-|[American Express](https://jobs.americanexpress.com/jobs/20001627)|Phoenix, Ft. Lauderdale, New York|Java, JavaScript, .NET, Graduating between December 2021 and June 2023|
+
