@@ -19,4 +19,5 @@ We provide our community members with **company-specific interview questions**, 
 |[IMC](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)|Chicago|C++, Java|
 |[Qualcomm (Software Engineering)](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)|San Diego, Boulder, Austin|C/C++|
 |[Qualcomm (Hardware Engineering)](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982302)|San Diego|C/C++|
+|[DRW Trading](https://boards.greenhouse.io/drweng/jobs/2194392)|Chicago|Working with financial data|
 
