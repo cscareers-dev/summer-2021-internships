@@ -13,6 +13,7 @@ We provide our community members with **company-specific interview questions**, 
 | Name  |  Location |  Notes |
 |---|---|---|
 |[American Express](https://jobs.americanexpress.com/jobs/20001627)|Phoenix, Ft. Lauderdale, New York|Java, JavaScript, .NET, Graduating between December 2021 and June 2023|
+|[DRW Trading](https://boards.greenhouse.io/drweng/jobs/2194392)|Chicago|Working with financial data|
 |[Five Rings (SWE)](https://fiverings.com/apply/?p=job%2Fo1OAcfwl)|New York|C++, Python|
 |[Five Rings (Quant)](https://fiverings.com/apply/?p=job%2FoeOAcfwy)|New York|Trading Intern|
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225)|New York, Chicago|C++, Graduating in 2022|
